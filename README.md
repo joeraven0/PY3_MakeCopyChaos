@@ -7,3 +7,4 @@ Why not download Hillary Clintons leaked mails and let the script fill the disk 
 Method: Really slow, but free.
 
 ![chaos folder](chaos.jpg)
+![chaos mails](chaospy.jpg)
