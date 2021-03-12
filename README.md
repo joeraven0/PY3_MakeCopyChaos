@@ -1,3 +1,3 @@
 # PY3_MakeCopyChaos
-Copy files between to locations until disk is full, into a new folder which will end up in chaos
+Copy files from one location to another until disk is full. It will all be organized in folders similar to a hell of chaos.
 ![chaos folder](chaos.jpg)
